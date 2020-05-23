@@ -7,14 +7,14 @@ A NodeJS module for sending remote control commands to a Sky TV box. Works with 
 #### Installation
 
 ```
-npm install sky-remote
+Download via Github
 ```
 
 #### Simple example
 
 ```javascript
 
-var SkyRemote = require('sky-remote');
+var SkyRemote = require('./Controllers/BaseController.js');
 
 var remoteControl = new SkyRemote('192.168.0.40');
 
