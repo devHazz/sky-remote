@@ -1,6 +1,6 @@
 #sky-remote
 
-A NodeJS module for sending remote control commands to a Sky TV box. Works with Sky+HD and SkyQ.
+A Modified Package that controls your sky box. Supports SkyQ and Sky+HD
 
 ## Usage
 
